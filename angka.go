@@ -2,10 +2,9 @@ package main
 
 import "fmt"
 
-func main(){
-	fmt.Println("Dua=",2)
-	fmt.Println("Empat=",4)
-	fmt.Println("Satu Juta Dua Ratus Ribu Rupiah=", 10000000)
+func main()  {
+	fmt.Println("Sembilan=",9)
+	fmt.Println("Seratus=",100)
+	fmt.Println("Sembilan Juta Lima Ratus Ribu Rupiah=", 9500000)
 }
-
 //PART 2
