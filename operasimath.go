@@ -3,13 +3,16 @@ package main
 import "fmt"
 
 func main(){
-	var x = 100
-	var y = 6
-	var c = x*y
+	var a = 100
+	var b = 1000
+	var c = a*b 
+
 	fmt.Println(c)
 
-	var deven = 1
-	var kezia = 9
-	var keuntungan = deven-kezia
-	fmt.Println(keuntungan)
+	var i = 30
+	i*= 10000
+	fmt.Println(i)
+
+	i++
+	fmt.Println(i)
 }
